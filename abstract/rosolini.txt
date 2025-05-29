@@ -1,0 +1,3 @@
+ An overview of hyperdoctrines and some completions
+
+This is going to be a quick review for the cognoscenti of the various structures on an indexed poset which abstract logical theories, following Lawvere's basic intutition. The occasion will be useful to justify set-like constructions from an algebraic perspective, in the form of completions of particular kinds of (hyper)doctrines.

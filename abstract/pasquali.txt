@@ -1,0 +1,6 @@
+
+Relational quotient completion
+
+In this talk we present relational doctrines as a functorial description of (a certain fragment of) the calculus of relations. These doctrines provide a natural setting where to deal with equivalence relations and quotients. We then describe a universal construction that adds quotients to any relational doctrine (inspired by Maietti and Rosolini elementary quotient completion) showing that this construction subsumes many known examples and has new ones, such as the category of metric spaces and non-expansive maps.
+ 
+This is a joint work with Francesco Dagnino (University of Genoa).

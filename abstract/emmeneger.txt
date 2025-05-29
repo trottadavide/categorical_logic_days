@@ -1,0 +1,9 @@
+
+Categorical structures for comprehension and context extension
+
+This talk is about the main categorical accounts of the set-theoretical operation of comprehension of a formula, and of the type-theoretical
+operation of context extension. Intuitively, the two operations are connected: in both cases we are allowed to treat the formula/type as
+true/inhabited. I will survey the categorical structures proposed by Lawvere, Ehrhard, Jacobs, and Dybjer to capture these operations, and
+report on some recent results that clarify the relationships between these structures and provide some free constructions for them. 
+
+This talk is based on joint work with Greta Coraglia, and with Francesco Dagnino and Andrea Giusto.

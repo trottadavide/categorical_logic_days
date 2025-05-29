@@ -1,0 +1,133 @@
+#menu
+{
+  display: none;
+}
+
+#pmenu
+{
+  display: block;
+
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  text-align: center;
+
+  color: white;
+  background: rgba(0,0,0,0.7);
+  border-bottom: 1px solid #000;
+}
+
+#sym
+{
+  border: 5px solid rgba(0,0,0,0);
+  border-bottom: 2px solid rgba(0,0,0,0);
+}
+
+#pmenu a
+{
+  color: inherit;
+}
+
+#pmenu .open
+{
+  cursor: pointer;
+  display: block;
+  font-size: 30px;
+  margin-bottom: 3px;
+}
+
+#pmenu .open a:hover
+{
+  text-decoration: none;
+}
+
+#pmenu .title
+{
+  margin-top: 20px;
+}
+
+#rest
+{
+  display: none;
+}
+
+#pmenu li
+{
+  font-weight: 300;
+  font-size: 20px;
+
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 0;
+  
+}
+
+ul
+{
+  padding: 5px;
+}
+
+#pmenu li a:hover
+{
+  text-decoration: underline;
+}
+
+.sub
+{
+  padding-top: 60px;
+}
+
+#presentation h1
+{
+  font-size: 40px;
+}
+
+#presentation h3
+{
+  font-size: 16px;
+}
+
+#presentation h4
+{
+  font-size: 16px;
+}
+
+.section
+{
+padding: 0 10px;
+}
+
+.section h3
+{
+  font-size: 25px;
+}
+
+.section ul
+{
+  padding: 0px 15px;
+}
+
+.section .nolist
+{
+  padding-left: 0;
+}
+
+.section .nolist li
+{
+  list-style-type: none;
+  
+}
+
+.section p, .section li
+{
+  text-align: left;
+  font-size: 16px;
+
+}
+
+.section img
+{
+  width: 100%;
+}
