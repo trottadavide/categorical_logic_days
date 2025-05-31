@@ -1,4 +1,7 @@
 A topos for extended Weihrauch degrees
 
 In this talk we will provide a full categorical account of the notion of extended Weihrauch reducibility introduced by A. Bauer, which generalizes the original notion of Weihrauch reducibility. 
+
 This is a j.w.w. Davide Trotta.
+
+https://arxiv.org/abs/2505.08697

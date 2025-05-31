@@ -1,6 +1,13 @@
 Sheaves, Presheaves and Sheafification in the abstract
 
-The notion of tripos was originally introduced by Hyland, Johnstone and Pitts to explain from an abstract perspective in which sense localic sheaf toposes and Hyland's realizability toposes are instances of the same construction. The main purpose of this work is to further investigate the common structures of these classes of toposes from a more geometric point of view. In particular, we first introduce an abstract exact category of presheaves for (arbitrary based) triposes, generalizing the construction of localic presheaves. We show that this construction can be obtained by combining the full existential completion with the tripos-to-topos, and we identify the class of triposes whose presheaf category is topos. Then, we show that the sheacation between a localic topos and its presheaf topos can be abstracted to a canonical adjunction between a tripos of this class and its full existential completion,
-so that, as leading example, any tripos-to-topos construction of a Set-based tripos can be seen as the category of j-sheaves for the Lawvere-Tierney topology j-induced by such an adjunction of triposes.
+The existential completion  introduced in [1] and characterized in [2] has been successfully applied to the
+study of dialectica [3] and to arithmetic universes in [4].
+
+Here we further extend the range of applications by producing an abstract treatment  of the notion of presheaves of the sheafification adjunction, including the localic one as an instance as well as realizability topos as suitable topos of j-sheaves.
 
 This talk is based on joint work with M.E. Maietti
+
+[1] D. Trotta. The existential completion, Theory and Applications of Categories, 2020
+[2] M.E. Maietti and D. Trotta. A characterization of generalized existential completions, Annals of Pure and Applied Logic, 2023
+[3] D. Trotta, M. Spadetto, V. De Paiva. Dialectica Principles via Gödel Doctrines, Theoretical Computer Science, 2023
+[4] M.E. Maietti and D. Trotta. Quotients, pure existential completions and arithmetic universes, Theory and Applications of Categories, 2024
