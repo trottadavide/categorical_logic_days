@@ -1,1 +1,9 @@
-TBA
+A lesson from Tripos Theory
+
+A surprising feature of the development of Tripos Theory was the use
+of a technical notion called weak completeness in the definition of
+certain functors between the generated Toposes. Recently in a paper
+for the 70th birthday of Pino Rosolini I had again to rely on this.
+In this talk I shall try to make the notion seem more natural using
+an approach from the thesis of Andy Pitts. I hope in doing so to
+raise questions on a broader front.TBA
